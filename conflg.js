@@ -6,6 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
-ALIVE_IMG: process. env.ALIVE_IMG || "https://drive.google.com/file/d/1-zm5zbhk3E8wKVivPszpYrel_B6vtYFm/view?usp=drivesdk",
-ALIVE_MSG: process. env.ALIVE_MSG || "Hello i am alive owner Denuwan-md",   
+ALIVE_IMG: process. env.ALIVE_IMG || "https://i.ibb.co/QMBc3qP/2771.jpg",
+ALIVE_MSG: process. env.ALIVE_MSG || "> @ *🦅✨ᴅᴇꜱɪɢɴ ʙʏ ꜱᴀɴᴊᴜ ʙʀᴏ ᴛᴇᴀᴍ ᴏꜰ ᴛʜᴇ ᴅᴀʀᴋ ᴄʏʙᴇʀ ᴍᴀᴋᴇʀ & ʙʟᴀᴄᴋ ᴍᴀʀᴋᴇᴛ. ✨🇱🇰*
+> @📱 *wa.me/94710513877*",   
 };
